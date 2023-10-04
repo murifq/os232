@@ -9,3 +9,5 @@ permalink: LINKS/
 =======
 * [Fuse] (https://medium.com/@goamaral/fuse-filesystem-b44768f27aa2)
 >>>>>>> 9e613058e0d0b86db49d0e55eadaf1cb3570188f
+* [Memory management](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+* [Logical vs physical address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address)
