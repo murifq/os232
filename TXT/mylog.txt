@@ -1,6 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 5 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 5 L41 TXT/mylog.txt related.
+ZCZC W05 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 10 L25 C-language including Make.
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 5 L07 Demo related
+ZCZC W05 2 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 180 L15 Assignment #05
 ZCZC W04 10 L01 SCELE/Discord related
 ZCZC W04 5 L45 TXT/SHA256SUM related
 ZCZC W04 5 L44 TXT/myscript.sh related. See also L25, L24.

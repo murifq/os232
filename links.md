@@ -11,3 +11,7 @@ permalink: LINKS/
 >>>>>>> 9e613058e0d0b86db49d0e55eadaf1cb3570188f
 * [Memory management](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 * [Logical vs physical address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address)
+* [What is virtual memory?] (https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
+* [Virtual memory] (https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)
+* [Virtual memory and paging] (https://www.linkedin.com/advice/0/how-do-you-manage-limited-physical-memory-using)
+
