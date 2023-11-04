@@ -12,4 +12,7 @@ permalink: LINKS/
 * [What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
 * [Virtual memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)
 * [Virtual memory and paging](https://www.linkedin.com/advice/0/how-do-you-manage-limited-physical-memory-using)
-
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+* [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction)
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+* [Memory Management in Operating System (OS)](https://www.javatpoint.com/memory-management-operating-system)
