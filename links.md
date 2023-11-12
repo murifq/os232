@@ -16,3 +16,6 @@ permalink: LINKS/
 * [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction)
 * [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 * [Memory Management in Operating System (OS)](https://www.javatpoint.com/memory-management-operating-system)
+* [Intro to Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+* [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction)
+* [Understanding Process Synchronization in Operating Systems](https://www.linkedin.com/pulse/understanding-process-synchronization-operating-systems-aritra-pain)
