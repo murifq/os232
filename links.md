@@ -19,3 +19,6 @@ permalink: LINKS/
 * [Intro to Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 * [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction)
 * [Understanding Process Synchronization in Operating Systems](https://www.linkedin.com/pulse/understanding-process-synchronization-operating-systems-aritra-pain)
+* [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+* [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+* [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
