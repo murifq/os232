@@ -1,6 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W09 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W09 5 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 5 L41 TXT/mylog.txt related.
+ZCZC W09 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W09 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 10 L07 Demo related
+ZCZC W09 60 L05 Quiz related including studying
+ZCZC W09 2 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 70 L19 Assignment #07
 ZCZC W08 5 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W08 5 L43 TXT/myrank.tex related, including peer review.
 ZCZC W08 5 L41 TXT/mylog.txt related.

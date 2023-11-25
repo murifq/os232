@@ -22,3 +22,6 @@ permalink: LINKS/
 * [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 * [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
 * [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
+* [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+* [Mass Storage Structure in Operating Systems](https://www.javatpoint.com/mass-storage-structure-in-operating-systems)
+* [Storage OS](https://www.quora.com/How-does-an-operating-system-save-data-from-memory-to-a-storage-device)
